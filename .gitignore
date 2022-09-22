@@ -1,0 +1,16 @@
+# IDEA
+**/.idea
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Gradle
+.gradle
+**/build/
+!src/**/build/
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
